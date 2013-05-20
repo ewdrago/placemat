@@ -10,7 +10,7 @@
         <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
-        <COLOR NAME="Explorer Blue" RGB="#0099cc" Spot="0" Register="0"/>
+        <COLOR NAME="Explorer Blue" RGB="#14ade0" Spot="0" Register="0"/>
         <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
         <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
